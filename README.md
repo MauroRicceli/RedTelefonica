@@ -2,7 +2,8 @@
 
 This projects simulates an app for a Telephone Company, making an telephone network with the most optimized path at that moment, showing it with an interface using JMapViewer.
 
-![alt text] https://imgur.com/m8MbA1M
+![screenshotapp](https://github.com/MauroRicceli/RedTelefonica/assets/116189713/d146d055-2876-4888-8634-6f161282c112)
+
 
 ## Features
 This project contains different packages with different classes, and the more important ones are
