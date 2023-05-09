@@ -1,0 +1,52 @@
+{
+  "_localidades": [
+    {
+      "_nombre": "Rosario",
+      "_provincia": "Santa Fe",
+      "_latitud": -32.948,
+      "_longitud": -60.737
+    },
+    {
+      "_nombre": "Partido Nueve De Julio",
+      "_provincia": "Buenos Aires",
+      "_latitud": -35.469,
+      "_longitud": -60.908
+    },
+    {
+      "_nombre": "Gualeguaychu",
+      "_provincia": "Entre Rios",
+      "_latitud": -32.999,
+      "_longitud": -58.612
+    },
+    {
+      "_nombre": "Lujan",
+      "_provincia": "Buenos Aires",
+      "_latitud": -34.592,
+      "_longitud": -59.106
+    },
+    {
+      "_nombre": "Pergamino",
+      "_provincia": "Buenos Aires",
+      "_latitud": -33.925,
+      "_longitud": -60.622
+    },
+    {
+      "_nombre": "Veinticinco de Mayo",
+      "_provincia": "Buenos Aires",
+      "_latitud": -35.742,
+      "_longitud": -60.249
+    },
+    {
+      "_nombre": "La Plata",
+      "_provincia": "Buenos Aires",
+      "_latitud": -34.885,
+      "_longitud": -57.974
+    },
+    {
+      "_nombre": "CABA",
+      "_provincia": "Buenos Aires",
+      "_latitud": -34.606,
+      "_longitud": -58.447
+    }
+  ]
+}
